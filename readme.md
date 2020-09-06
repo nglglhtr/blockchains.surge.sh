@@ -1,16 +1,3 @@
-# notes.aravindballa.com
+# blockchains.surge.sh
 
-Uses https://github.com/aravindballa/gatsby-theme-andy/
-
-## Running the project
-
-- `yarn`
-- `yarn start`
-
-## Customisations on top of the theme
-
-This project uses Tailwind CSS for styling so `BrainNoteContainer.js` is changed with the classNames corresponding to tailwind.
-
-The popups are also styled this way and the behaviour on mobile is changed. There are no popups on the smaller screens.
-
-And double brackets are hidden by passing an option in the [config](https://github.com/aravindballa/notes.aravindballa.com/blob/0d98c1bdc9b82ee83a6e5af546f0d93afe0f435d/gatsby-config.js#L9).
+The website layout is inspired from the notes of [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) and [Max Stoiber](https://notes.mxstbr.com/), forked from the Gatsby implementation of [Aravind Balla's notes](https://notes.aravindballa.com), and opensourced [here](https://github.com/nglglhtr/notes).
