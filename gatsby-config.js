@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `@aravindballa's notes`,
+    title: `yello! 🙋🏻‍♀️`,
   },
   plugins: [
     {
