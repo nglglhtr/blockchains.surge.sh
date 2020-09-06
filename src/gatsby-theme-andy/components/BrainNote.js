@@ -69,7 +69,7 @@ const BrainNote = ({ note }) => {
       <div className="refs-box bg-indigo-100 text-gray-600 rounded-lg mb-4 p-4">
         {referenceBlock}
         <p className="text-sm m-0">
-          <small>What is a copyright? someone plis explain</small>
+          This website's layout is inspired from the notes of <a href="https://notes.andymatuschak.org/About_these_notes">Andy Matuschak</a> and <a href="https://notes.mxstbr.com">Max Stoiber</a>, forked from the Gatsby implementation of <a href="https://notes.aravindballa.com">Aravind Balla's notes</a>, and opensourced <a href="https://github.com/nglglhtr/blockchains.surge.sh">here</a>.
         </p>
       </div>
     </MDXProvider>

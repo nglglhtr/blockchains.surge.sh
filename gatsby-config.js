@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `yello! 🙋🏻‍♀️`,
+    title: `Understanding blockchains: the calm way 🧘🏻‍♀️`,
   },
   plugins: [
     {
